@@ -17,7 +17,7 @@
 
 ---
 
-### 🛡️ 3. Safe restore
+### Safe restore
 
 
 *   `git restore <file_name>` — restores file.
@@ -26,3 +26,10 @@
 *   `git restore --staged <file_name>` — restores file from staging area.
 
 *   `git commit --amend -m "New description"` — rewrite last commit.
+
+### Conclusions
+
+* Local files of project can be tranfered between Working tree, Staging area and Repository.
+* `add` and `commit` commands used to move files forward.
+* `restore` command used to move files backward.
+* `diff`, `status` and `log` commands used to check and monitor changes.
