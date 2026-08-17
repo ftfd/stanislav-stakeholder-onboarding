@@ -21,4 +21,4 @@
 
 ### Linear
 
-* https://linear.app/studcit/project/stanislav-stakeholder-onboarding-02e6078fd0f9/overview
+* https://linear.app/studcit/project/stanislav-stakeholder-onboarding-2d7f5af25fbf
